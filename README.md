@@ -27,4 +27,3 @@ Meu foco atualmente está em Fullstack
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-[![Snake Game](https://github.com/Viniciussfr/viniciussfr/actions/workflows/blank.yml/badge.svg)](https://github.com/Viniciussfr/viniciussfr/actions/workflows/blank.yml)
