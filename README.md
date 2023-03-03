@@ -16,7 +16,7 @@ Meu foco atualmente está em Fullstack
 ### Minha Rede:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/vinicius-ferreira-reis/)
+)](https://www.linkedin.com/in/vinicius-ferreira-reis-a289b9204/)
 
 ### Tecnologias e ferramentas que utilizo:
 
